@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\format(43): warning STL4038: The contents of <format> are available only with C++20 or later.
+C:\Dev\C\Satellite Tracker\main.cpp(32,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(34,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(35,55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(35,30): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(53,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(55,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(55,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(73,9): warning C4018: '>': signed/unsigned mismatch
+C:\Dev\C\Satellite Tracker\main.cpp(78,9): warning C4018: '>': signed/unsigned mismatch
+C:\Dev\C\Satellite Tracker\main.cpp(84,21): warning C4018: '<': signed/unsigned mismatch
+  Satellite Tracker.vcxproj -> C:\Dev\C\Satellite Tracker\Debug\Satellite Tracker.exe

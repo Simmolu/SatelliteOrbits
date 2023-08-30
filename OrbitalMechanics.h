@@ -14,13 +14,17 @@ public:
     const double G = 6.6743e-11;
     const double EARTHM = 5.724e24;
 
+    std::vector <SpaceObject*> satelliteList;
+
 
 
 
 
     void updatePositionVelocity(SpaceObject* spaceboi, double timestep);
 
-    std::vector <double> computeAcceleration(SpaceObject* spaceboi);
+    int computeAcceleration(SpaceObject* spaceboi);
+
+    void addSatellite(SpaceObject* spacey);
 
 
 };

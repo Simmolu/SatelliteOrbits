@@ -1,13 +1,37 @@
 ﻿  main.cpp
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\format(43): warning STL4038: The contents of <format> are available only with C++20 or later.
-C:\Dev\C\Satellite Tracker\main.cpp(32,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Dev\C\Satellite Tracker\main.cpp(34,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Dev\C\Satellite Tracker\main.cpp(35,55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
-C:\Dev\C\Satellite Tracker\main.cpp(35,30): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
-C:\Dev\C\Satellite Tracker\main.cpp(53,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Dev\C\Satellite Tracker\main.cpp(55,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Dev\C\Satellite Tracker\main.cpp(55,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Dev\C\Satellite Tracker\main.cpp(73,9): warning C4018: '>': signed/unsigned mismatch
-C:\Dev\C\Satellite Tracker\main.cpp(78,9): warning C4018: '>': signed/unsigned mismatch
-C:\Dev\C\Satellite Tracker\main.cpp(84,21): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\C\Satellite Tracker\main.cpp(50,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(59,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(66,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(66,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(68,38): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(68,26): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(81,23): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(98,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(100,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(100,33): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Dev\C\Satellite Tracker\main.cpp(107,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(109,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(109,34): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Dev\C\Satellite Tracker\main.cpp(118,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(120,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(120,29): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Dev\C\Satellite Tracker\main.cpp(189,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(195,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(253,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(253,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(271,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Dev\C\Satellite Tracker\main.cpp(272,14): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
   Satellite Tracker.vcxproj -> C:\Dev\C\Satellite Tracker\Debug\Satellite Tracker.exe

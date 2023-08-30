@@ -9,9 +9,14 @@ class SpaceObject
 public:
     std::string name;
     std::vector <double> eciposition;
-    std::vector <double> velocity;
+    //std::vector <double> velocity;
+    //std::vector <double> acceleration;
+    double orbVel;
     double mass = 2500;
     double altitude;
+    double period;
+    double thetaPerSec;
+    double currentAngle;
 
     SpaceObject(std::string name, double alt);
 };
